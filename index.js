@@ -50,5 +50,3 @@ else if (condicao === 5.001) {
 else {
     console.log("Digite apenas números");
 }
-
-// Estruturas de Decisão
